@@ -1,2 +1,2 @@
-# My-Solar-System
-I learnt how to destroy planets when they touch the Sun in this project.
+# p5.play-boilerplate
+Boiler plate for p5.play
